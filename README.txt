@@ -1,3 +1,6 @@
+---> Used coapthon python library for establishing the coap server and client communication
+
+
 =================Establishing  a coapserver.py=====================
 
 python coapserver.py <server_ip>
